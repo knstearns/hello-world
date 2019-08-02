@@ -70,7 +70,7 @@ There are two primary ways notifications are triggered:
     - External Example: *“Your Instagram Profile needs reauthorization.”* 
     - Internal Example: *“Your credit card on file is set to expire in 14 days”* 
 
-Notifications have a menu containing, "Mark as read" or "Mark as unread" and "Delete". On click, a notification will navigate the user to the page the notification is referencing, at that time, the notification will transition to the read style card. "Mark as read" and "Mark as unread" will transition the notification between the unread and read card style (see Structure & Style section). On delete, the notification will exit out of the notification center. See [*Message Feeds*](https://sproutsocial.com/seeds/patterns/message-feeds) for details on how notifications should enter and exit the Notification Center.
+Notifications have a menu containing, "Mark as read" or "Mark as unread" and "Delete". On click, a notification will navigate the user to the page the notification is referencing, at that time, the notification will transition to the read style card. "Mark as read" and "Mark as unread" will transition the notification between the unread and read card style (see Structure & Style section). On delete, the notification will exit out of the notification center. See [*Message Feeds*](https://sproutsocial.com/seeds/patterns/message-feeds) for details on how notifications should enter and exit the Notification Center. An “Unseen” indicator will appear on the message if it’s appeared since the user last opened the notification center. All unseen indicators will disappear when the user closes and reopens the notification center.
 
 Issues have a "Learn more" button. On click, the Issue will expand and display more details related to the issue. For certain issues, the user may see a button at the bottom of the details allowing them to take an action. A user will only see this button if they have appropriate permissions to take an action on the issue.
 
@@ -83,8 +83,6 @@ There are two styles of cards that may appear within the notification center:
 Notifications will be structured with an icon (to indicate type), sender’s avatar, sender’s name, request, overflow menu icon and byline. A notification byline should always include the group name and timestamp. Timestamp will appear by hours until 24 hours, at that point it will convert to the abbreviated date format, month date year (*e.g.* Jul 1, 2019).
 
 **Unread, Unseen**
-
-Unread, unseen notifications appear within the notification center after action is initated by another user.
 
 ![](https://paper-attachments.dropbox.com/s_F5B7E0DD23239649D3E02D939F99CDD77FF5741A0DD8F8AEE8E8D89CFCC6CE6F_1564752581535_Notification+Unread+Unseen.png)
 
