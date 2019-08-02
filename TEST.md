@@ -97,6 +97,7 @@ Unread, unseen notifications appear within the notification center after action 
 ![](https://paper-attachments.dropbox.com/s_F5B7E0DD23239649D3E02D939F99CDD77FF5741A0DD8F8AEE8E8D89CFCC6CE6F_1564752601874_Notification+Read+Seen.png)
 
 **Issues**
+
 Issues should always have a red warning icon, profile / network’s name, status, details and byline. An Issue byline should always include the network and abbreviated date format, month date year (*e.g.* Jul 1, 2019). Issues may or may not have a profile’s avatar.
 
 - Example of an Issue with avatar: *“Sprout Coffee Co is disconnected”*
@@ -136,12 +137,15 @@ Issues should always have a red warning icon, profile / network’s name, status
 ### Building and releasing a new notification
 
 **Who should see notifications?**
+
 Notifications can be released to both trial users and subscribers that have the adequate feature access in respect to plan availability and permissions. 
 
 **How can my team build a notification?**
+
 For any additional product, design, and technical implementation details please refer to this Notification Framework Document. 
 
 **Who can I reach out to for assistance if I need it?**
+
 The Global tribe, specifically the Capabilities squad, oversees the Notification service, Notification Center, and Notification Settings. Hop into #eng-global and mention @capabilities so we can be sure to give you attention.
 
 
