@@ -1,6 +1,3 @@
-# Notifications
-
-----------
 ## Sprout Notifications is an essential communication tool for informing users about various events happening both inside and outside of the Sprout tool that may require their attention and action. 
 
 By delivering users real-time information that they’ve self-identified as important to channels that they’ve selected, we’re both promoting user efficiency and supporting experience personalization. In order to ensure an optimal Notifications experience for every user, all team members building notifications must strive for consistency in respect to design, delivery channels, and technical implementation.
