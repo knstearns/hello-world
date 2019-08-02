@@ -11,6 +11,7 @@ By delivering users real-time information that they’ve self-identified as impo
 ### Best Practices
 
 **Does my feature need a notification?**
+
 Notifications should be transactional meaning they should alert the user about something they need to be aware of or that they need to do. If your feature has recurring, event-based information out-puts that will improve an individual users’ awareness or performance within our tool, you might want to consider creating a notification. While there is no clear-cut criteria for whether or not you should create a Notification, before pursuing, you should have a clear answer to the question, “Why does my user need to receive this piece of information in various ways outside of the direct feature area on an ongoing basis?”
 
 **Notifications are most effective when…**
