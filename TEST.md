@@ -49,9 +49,11 @@ This is the most common type of notification in the notification center. These n
 Issue notifications are a type of notification sent from the Sprout system. These notifications are usually related to problems with an account, such as disconnected profiles. This type of notification is minimal disruptive, can hold more specific helper text to guide the user and may or may not be actionable depending on user permissions.
 
 **Banners**
+
 Banner notifications are persistent and cannot be dismissed until the issue is resolved. These are notifications from the system, usually related to issues that degrade part of an experience, such as failed posts, API issues from a single network, etc.
 
 **Dialogs**
+
 Dialog notifications are for degraded experiences that prevent the user from using Sprout as intended. Examples of these experiences:
 
 - Credit card has expired and user is locked out of application.
@@ -81,6 +83,7 @@ There are two styles of cards that may appear within the notification center:
 Notifications will be structured with an icon (to indicate type), sender’s avatar, sender’s name, request, overflow menu icon and byline. A notification byline should always include the group name and timestamp. Timestamp will appear by hours until 24 hours, at that point it will convert to the abbreviated date format, month date year (*e.g.* Jul 1, 2019).
 
 **Unread, Unseen**
+
 Unread, unseen notifications appear within the notification center after action is initated by another user.
 
 ![](https://paper-attachments.dropbox.com/s_F5B7E0DD23239649D3E02D939F99CDD77FF5741A0DD8F8AEE8E8D89CFCC6CE6F_1564752581535_Notification+Unread+Unseen.png)
@@ -93,7 +96,7 @@ Unread, unseen notifications appear within the notification center after action 
 
 ![](https://paper-attachments.dropbox.com/s_F5B7E0DD23239649D3E02D939F99CDD77FF5741A0DD8F8AEE8E8D89CFCC6CE6F_1564752601874_Notification+Read+Seen.png)
 
-******Issues**
+**Issues**
 Issues should always have a red warning icon, profile / network’s name, status, details and byline. An Issue byline should always include the network and abbreviated date format, month date year (*e.g.* Jul 1, 2019). Issues may or may not have a profile’s avatar.
 
 - Example of an Issue with avatar: *“Sprout Coffee Co is disconnected”*
