@@ -41,9 +41,11 @@ Notifications should be transactional meaning they should alert the user about s
 There are several types of notifications:
 
 **Notifications**
+
 This is the most common type of notification in the notification center. These notifications are user-to-user, meaning they are sent when one user takes an action and another user is notified. This type of notification is minimal disruptive and interactive.
 
 **Issues**
+
 Issue notifications are a type of notification sent from the Sprout system. These notifications are usually related to problems with an account, such as disconnected profiles. This type of notification is minimal disruptive, can hold more specific helper text to guide the user and may or may not be actionable depending on user permissions.
 
 **Banners**
@@ -75,6 +77,7 @@ Issues have a "Learn more" button. On click, the Issue will expand and display m
 There are two styles of cards that may appear within the notification center:
 
 **Notifications**
+
 Notifications will be structured with an icon (to indicate type), sender’s avatar, sender’s name, request, overflow menu icon and byline. A notification byline should always include the group name and timestamp. Timestamp will appear by hours until 24 hours, at that point it will convert to the abbreviated date format, month date year (*e.g.* Jul 1, 2019).
 
 **Unread, Unseen**
