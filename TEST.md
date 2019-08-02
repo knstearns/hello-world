@@ -146,7 +146,7 @@ For any additional product, design, and technical implementation details please 
 
 **Who can I reach out to for assistance if I need it?**
 
-The Global tribe, specifically the Capabilities squad, oversees the Notification service, Notification Center, and Notification Settings. Hop into (*#eng-global* | https://sproutsocial.slack.com/app_redirect?channel=eng-global) and mention @capabilities so we can be sure to give you attention.
+The Global tribe, specifically the Capabilities squad, oversees the Notification service, Notification Center, and Notification Settings. Hop into [*#eng-global*](https://sproutsocial.slack.com/app_redirect?channel=eng-global) and mention @capabilities so we can be sure to give you attention.
 
 
 ### Q&A
