@@ -105,12 +105,12 @@ Issues should always have a red warning icon, profile / network’s name, status
 
 **Read, Collapsed**
 
-![](https://paper-attachments.dropbox.com/s_F5B7E0DD23239649D3E02D939F99CDD77FF5741A0DD8F8AEE8E8D89CFCC6CE6F_1564752621429_Issue+Read+Collapsed.png)
+![](https://paper-attachments.dropbox.com/s_F5B7E0DD23239649D3E02D939F99CDD77FF5741A0DD8F8AEE8E8D89CFCC6CE6F_1565022604757_Issue+Read+Unseen+Collapsed.png)
 
 
 **Read, Expanded with Button**
 
-![](https://paper-attachments.dropbox.com/s_F5B7E0DD23239649D3E02D939F99CDD77FF5741A0DD8F8AEE8E8D89CFCC6CE6F_1564752635550_Issue+Read+Expanded.png)
+![](https://paper-attachments.dropbox.com/s_F5B7E0DD23239649D3E02D939F99CDD77FF5741A0DD8F8AEE8E8D89CFCC6CE6F_1565022609015_Issue+No+Avatar+Unseen.png)
 
 
 **Read, Expanded without Button (no permissions)**
