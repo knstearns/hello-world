@@ -1,7 +1,10 @@
-**title:** Notifications
-**scope:** Global
-**excerpt:** Notifications are an essential communication tool for informing users about various events happening both inside and outside of Sprout that may require their attention and/or action. 
-**contact:** Nicki Stearns
+---
+title: Notifications
+scope: Global
+excerpt: Notifications are an essential communication tool for informing users about various events happening both inside and outside of Sprout that may require their attention and/or action.
+contact: Nicki Stearns
+private: true
+---
 
 By delivering users real-time information they’ve self-identified as important, we’re promoting both user efficiency and supporting experience personalization. In order to ensure an optimal Notifications experience for every user, all Sprout team members building notifications must strive for consistency in respect to both user experience and technical implementation.
 
