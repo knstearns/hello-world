@@ -143,7 +143,7 @@ Notifications can be released to both trial users and subscribers that have the 
 
 **How can my team build a notification?**
 
-For any additional product, design, and technical implementation details please refer to this Notification Framework Document.
+For any additional product, design, and technical implementation details please refer to the [*Notification Framework Document*](https://sprout.atlassian.net/wiki/spaces/GLOB/pages/917701355/Getting+Started+with+Notifications).
 
 **Who can I reach out to for assistance if I need it?**
 
